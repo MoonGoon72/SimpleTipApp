@@ -11,6 +11,7 @@
 		F3CC5396299B1D0500DDCFC6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3CC5395299B1D0500DDCFC6 /* ContentView.swift */; };
 		F3CC5398299B1D0600DDCFC6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F3CC5397299B1D0600DDCFC6 /* Assets.xcassets */; };
 		F3CC539B299B1D0600DDCFC6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F3CC539A299B1D0600DDCFC6 /* Preview Assets.xcassets */; };
+		F3CC53A4299B61C400DDCFC6 /* InformationDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3CC53A3299B61C400DDCFC6 /* InformationDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		F3CC5395299B1D0500DDCFC6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F3CC5397299B1D0600DDCFC6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F3CC539A299B1D0600DDCFC6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F3CC53A3299B61C400DDCFC6 /* InformationDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InformationDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				F3CC5393299B1D0500DDCFC6 /* SimpleTipAppApp.swift */,
 				F3CC5395299B1D0500DDCFC6 /* ContentView.swift */,
+				F3CC53A3299B61C400DDCFC6 /* InformationDetail.swift */,
 				F3CC5397299B1D0600DDCFC6 /* Assets.xcassets */,
 				F3CC5399299B1D0600DDCFC6 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F3CC53A4299B61C400DDCFC6 /* InformationDetail.swift in Sources */,
 				F3CC5396299B1D0500DDCFC6 /* ContentView.swift in Sources */,
 				F3CC5394299B1D0500DDCFC6 /* SimpleTipAppApp.swift in Sources */,
 			);

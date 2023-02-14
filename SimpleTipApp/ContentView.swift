@@ -28,7 +28,7 @@ struct ContentView: View {
                 
                 Section {
                     NavigationLink {
-                        Text("사용자 정보 보호하기")
+                        InformationDetail()
                     } label: {
                         Label {
                             Text("사용자 정보 보호하기")
